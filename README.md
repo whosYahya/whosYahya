@@ -24,11 +24,12 @@ class Yahya:
     def __init__(self):
         self.name       = "Yahya Arshad Shaikh"
         self.role       = "Software Developer Intern @ ZasmLabs, Pune"
-        self.education  = "M.Sc. Computer Science — AKI's Poona College"
+        self.education  = "Computer Science Graduate"
         self.focus      = ["ERPNext", "Frappe Framework", "Data Analysis", "Machine Learning"]
         self.location   = "Pune, India 🇮🇳"
         self.currently  = "Customizing ERP modules & integrating RESTful APIs"
         self.fun_fact   = "I trained a CNN to read my handwriting 🤖✍️"
+        self.fav_sport  = Football
 
     def say_hi(self):
         print("Thanks for visiting! Let's build something great.")
