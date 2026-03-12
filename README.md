@@ -8,10 +8,12 @@
 
 <br/>
 
+[![Gmail](https://img.shields.io/badge/Gmail-yahyaashaikh065@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yahyaashaikh065@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yahya--shaikh0605-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yahya-shaikh0605)
+[![Discord](https://img.shields.io/badge/Discord-shaikh__boi-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/719102749928718386)
 [![Twitter](https://img.shields.io/badge/Twitter-@yessirYahya-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/yessirYahya)
-[![Email](https://img.shields.io/badge/Email-yahyaashaikh065@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yahyaashaikh065@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=whosYahya&color=7C3AED&style=for-the-badge&label=Profile+Views)](https://github.com/whosYahya)
+
 
 </div>
 
