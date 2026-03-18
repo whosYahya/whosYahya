@@ -20,25 +20,14 @@
 ---
 
 ## 👋 About Me
+<table>
+  <tr>
+    <td>
+🧑‍💻 Yahya Arshad Shaikh
 
-```python
-class Yahya:
-    def __init__(self):
-        self.name       = "Yahya Arshad Shaikh"
-        self.role       = "Software Developer Intern @ ZasmLabs, Pune"
-        self.education  = "Computer Science Graduate"
-        self.focus      = ["ERPNext", "Frappe Framework", "Data Analysis", "Machine Learning"]
-        self.location   = "Pune, India 🇮🇳"
-        self.currently  = "Customizing ERP modules & integrating RESTful APIs"
-        self.fun_fact   = "I trained a CNN to read my handwriting 🤖✍️"
-        self.fav_sport  = Football
+ERPNext Engineer · Software Developer · ML Enthusiast
 
-    def say_hi(self):
-        print("Thanks for visiting! Let's build something great.")
-
-me = Yahya()
-me.say_hi()
-```
+🏢 CurrentlySoftware Developer Intern @ ZasmLabs, Pune🎓 EducationM.Sc. Computer Science — AKI's Poona College📍 LocationPune, India 🇮🇳🔭 Working onERP module customization & API integrations🌱 LearningAdvanced Frappe Framework & Cloud Deployments💬 Ask me aboutERPNext, Python automation, Data Analysis⚡ Fun factI trained a CNN to read my own handwriting 🤖✍️
 
 ---
 
