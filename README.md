@@ -109,7 +109,7 @@ me.say_hi()
 <!-- Snake animation (you need to set up GitHub Action for this - see README tips) -->
 <!-- <img src="https://github.com/whosYahya/whosYahya/blob/output/github-contribution-grid-snake.svg" /> -->
 
-**"Build systems that scale, write code that speaks."**
+**"I build systems that automate business workflows and integrate AI where it creates real value."**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%" />
 
