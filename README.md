@@ -94,7 +94,7 @@ me.say_hi()
 
 ```
 🏢  ZasmLabs Pvt. Ltd. — Software Developer Intern (ERPNext Engineer)
-📅  July 2025 – Present | Pune, India
+📅  July 2025 – June 2026 | Pune, India
 
 →  Custom ERPNext modules: doctypes, workflows, print formats
 →  RESTful API integrations (ERPNext ↔ external services)
