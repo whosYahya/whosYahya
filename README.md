@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Animated header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Yahya%20Shaikh&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=ERPNext%20Engineer%20%7C%20Software%20Developer%20%7C%20ML%20Enthusiast&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Yahya%20Shaikh&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=ERPNext%20Engineer%20%7C%20Software%20Developer%20%7C%20Data%20%26%20AI%20Enthusiast&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
 
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=Building+scalable+ERP+solutions+%F0%9F%9A%80;Automating+workflows+with+Frappe+%F0%9F%94%A7;Turning+data+into+insights+%F0%9F%93%8A;ML+%2B+Python+%2B+a+lot+of+chai+%E2%98%95)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=Building+scalable+ERP+solutions+%F0%9F%9A%80;Automating+workflows+with+Frappe+%F0%9F%94%A7;Turning+data+into+insights+%F0%9F%93%8A;Building+automation+with+chai+%E2%98%95)](https://git.io/typing-svg)
 
 <br/>
 
@@ -12,6 +12,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yahya--shaikh0605-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yahya-shaikh0605)
 [![Discord](https://img.shields.io/badge/Discord-shaikh__boi-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/719102749928718386)
 [![Twitter](https://img.shields.io/badge/Twitter-@yessirYahya-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/yessirYahya)
+[![Website](https://img.shields.io/badge/Website-yahyashaikh65.netlify.app-0A86E3?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yahyashaikh65.netlify.app/)
 [![Profile Views](https://komarev.com/ghpvc/?username=whosYahya&color=7C3AED&style=for-the-badge&label=Profile+Views)](https://github.com/whosYahya)
 
 
@@ -82,9 +83,9 @@ me.say_hi()
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| 🏠 [**Airbnb Barcelona Analysis**](https://github.com/whosYahya/airbnb-barcelona-analysis) | End-to-end data science project — price patterns, demand trends, and an interactive Power BI dashboard for Barcelona listings | `Python` `Pandas` `Power BI` |
+| 🧰 [**WorkshopFlow**](https://github.com/whosYahya/WorkshopFlow) | Workshop management and automation system built with ERPNext/Frappe to streamline job cards, service workflows, and business operations | `ERPNext` `Frappe` `Python` `JavaScript` |
 | ✍️ [**Handwritten Digit Recognition**](https://github.com/whosYahya/handwritten-digit-recognition) | CNN-based MNIST model + Tkinter GUI for real-time digit prediction | `Python` `TensorFlow` `Tkinter` `CNN` |
-| 🧺 [**Laundry Management System**](https://github.com/whosYahya/Laundry-Management-System) | Full-stack web app for laundry business management | `Django` `HTML` `CSS` `MySQL` |
+| 🏠 [**Airbnb Barcelona Analysis**](https://github.com/whosYahya/airbnb-barcelona-analysis) | End-to-end data science project — price patterns, demand trends, and an interactive Power BI dashboard for Barcelona listings | `Python` `Pandas` `Power BI` |
 
 </div>
 
