@@ -26,7 +26,6 @@
 class Yahya:
     def __init__(self):
         self.name       = "Yahya Arshad Shaikh"
-        self.role       = "Software Developer Intern @ ZasmLabs, Pune"
         self.education  = "Computer Science Graduate"
         self.focus      = ["ERPNext", "Frappe Framework", "Data Analysis", "Machine Learning"]
         self.location   = "Pune, India 🇮🇳"
