@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Animated header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Yahya%20Shaikh&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=ERPNext%20Engineer%20%7C%20Software%20Developer%20%7C%20Data%20%26%20AI%20Enthusiast&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
+<!-- Animated header banner --> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Yahya%20Shaikh&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=ERPNext%20Engineer%20%7C%20Software%20Developer%20%7C%20Data/AI%20Enthusiast&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
 
 <!-- Typing animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=Building+scalable+ERP+solutions+%F0%9F%9A%80;Automating+workflows+with+Frappe+%F0%9F%94%A7;Turning+data+into+insights+%F0%9F%93%8A;Building+automation+with+chai+%E2%98%95)](https://git.io/typing-svg)
